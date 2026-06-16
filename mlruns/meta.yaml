@@ -1,0 +1,9 @@
+artifact_location: file:///content/drive/MyDrive/mlruns/971133239161735956
+creation_time: 1781596632505
+effective_trace_archival_retention: null
+experiment_id: '971133239161735956'
+last_update_time: 1781596632505
+lifecycle_stage: active
+name: airbnb_text_models
+trace_location: null
+workspace: default

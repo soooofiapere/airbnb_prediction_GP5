@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlruns/971133239161735956/ccd75673e8dc4977953cb3e49f362141/artifacts
+end_time: 1781596642684
+entry_point_name: ''
+experiment_id: '971133239161735956'
+lifecycle_stage: active
+run_id: ccd75673e8dc4977953cb3e49f362141
+run_name: text_cnn
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1781596641524
+status: 3
+tags: []
+user_id: root

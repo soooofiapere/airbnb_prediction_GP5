@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlruns/971133239161735956/6d89507ae136433e8f01ba43732809e2/artifacts
+end_time: 1781596641513
+entry_point_name: ''
+experiment_id: '971133239161735956'
+lifecycle_stage: active
+run_id: 6d89507ae136433e8f01ba43732809e2
+run_name: embedding_avg
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1781596640290
+status: 3
+tags: []
+user_id: root

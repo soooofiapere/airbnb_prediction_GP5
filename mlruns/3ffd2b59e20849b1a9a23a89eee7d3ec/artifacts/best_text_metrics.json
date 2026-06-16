@@ -1,0 +1,8 @@
+{
+    "model": "embedding_avg",
+    "test_accuracy": 0.7650063856960408,
+    "test_precision": 0.7431693989071039,
+    "test_recall": 0.9046563192904656,
+    "test_f1": 0.816,
+    "test_roc_auc": 0.8467528651190127
+}
